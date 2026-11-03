@@ -1,0 +1,364 @@
+fecha,campania_id,campania,plataforma,objetivo,presupuesto_diario,gasto,impresiones,alcance,clics,conversiones,ingresos
+2026-10-02,1,Retargeting carrito,Meta,Conversión,80000,80249,15265,6814,390,34,767322
+2026-10-02,2,Lookalike compradores,Meta,Conversión,120000,123791,16998,9224,243,7,167171
+2026-10-02,3,Búsqueda de marca,Google,Conversión,50000,47673,6177,4422,527,26,605979
+2026-10-02,4,Búsqueda genérica,Google,Conversión,140000,134261,8260,5792,190,3,70305
+2026-10-02,5,Display amplio,Google,Alcance,60000,53347,19545,7367,54,0,0
+2026-10-02,6,Reels producto nuevo,Meta,Tráfico,90000,83640,13461,2573,169,1,18441
+2026-10-02,7,Spark Ads liquidación,TikTok,Conversión,70000,69828,15209,6780,213,0,0
+2026-10-02,8,Shopping catálogo,Google,Conversión,100000,98264,8866,6480,175,10,197025
+2026-10-02,9,Stories descuento,Meta,Conversión,60000,53693,6792,2934,96,3,65092
+2026-10-02,10,TikTok in-feed,TikTok,Tráfico,50000,47078,11599,5666,105,2,32766
+2026-10-02,11,YouTube video,Google,Alcance,40000,36632,10193,2958,40,0,0
+2026-10-02,12,Búsqueda competidores,Google,Conversión,30000,12661,1074,755,33,3,63714
+2026-10-03,1,Retargeting carrito,Meta,Conversión,80000,75491,14085,6595,326,23,526055
+2026-10-03,2,Lookalike compradores,Meta,Conversión,120000,127347,13289,7465,208,6,153253
+2026-10-03,3,Búsqueda de marca,Google,Conversión,50000,52220,6154,4710,601,37,749311
+2026-10-03,4,Búsqueda genérica,Google,Conversión,140000,140851,9420,7103,230,4,76441
+2026-10-03,5,Display amplio,Google,Alcance,60000,55624,19549,6226,53,0,0
+2026-10-03,6,Reels producto nuevo,Meta,Tráfico,90000,87305,17076,2961,207,2,36512
+2026-10-03,7,Spark Ads liquidación,TikTok,Conversión,70000,68150,17738,7381,266,0,0
+2026-10-03,8,Shopping catálogo,Google,Conversión,100000,106351,10045,6872,172,9,176965
+2026-10-03,9,Stories descuento,Meta,Conversión,60000,62025,11095,3998,176,6,114490
+2026-10-03,10,TikTok in-feed,TikTok,Tráfico,50000,45997,13056,6757,146,4,66273
+2026-10-03,11,YouTube video,Google,Alcance,40000,40801,15227,4579,62,0,0
+2026-10-03,12,Búsqueda competidores,Google,Conversión,30000,11960,1110,754,39,2,38586
+2026-10-04,1,Retargeting carrito,Meta,Conversión,80000,78224,15854,6759,372,37,672896
+2026-10-04,2,Lookalike compradores,Meta,Conversión,120000,121538,18528,10386,265,12,267732
+2026-10-04,3,Búsqueda de marca,Google,Conversión,50000,45681,3648,3238,358,41,804666
+2026-10-04,4,Búsqueda genérica,Google,Conversión,140000,136200,9848,6941,233,3,50943
+2026-10-04,5,Display amplio,Google,Alcance,60000,56453,23088,8182,54,0,0
+2026-10-04,6,Reels producto nuevo,Meta,Tráfico,90000,90745,14241,2521,186,2,41617
+2026-10-04,7,Spark Ads liquidación,TikTok,Conversión,70000,69012,17647,6739,247,0,0
+2026-10-04,8,Shopping catálogo,Google,Conversión,100000,101591,8104,5057,171,11,194424
+2026-10-04,9,Stories descuento,Meta,Conversión,60000,56439,8516,2826,140,4,68492
+2026-10-04,10,TikTok in-feed,TikTok,Tráfico,50000,46425,13417,6929,149,3,51997
+2026-10-04,11,YouTube video,Google,Alcance,40000,36896,11707,3884,48,0,0
+2026-10-04,12,Búsqueda competidores,Google,Conversión,30000,10874,788,637,26,1,19974
+2026-10-05,1,Retargeting carrito,Meta,Conversión,80000,82791,14007,6655,339,32,662749
+2026-10-05,2,Lookalike compradores,Meta,Conversión,120000,116121,13142,7552,207,6,124108
+2026-10-05,3,Búsqueda de marca,Google,Conversión,50000,45379,4872,3813,527,32,636017
+2026-10-05,4,Búsqueda genérica,Google,Conversión,140000,147338,9155,6913,182,2,39531
+2026-10-05,5,Display amplio,Google,Alcance,60000,55251,21472,7056,50,0,0
+2026-10-05,6,Reels producto nuevo,Meta,Tráfico,90000,76443,12439,2263,129,1,19346
+2026-10-05,7,Spark Ads liquidación,TikTok,Conversión,70000,65683,16368,7185,200,0,0
+2026-10-05,8,Shopping catálogo,Google,Conversión,100000,98674,8464,5054,120,7,156539
+2026-10-05,9,Stories descuento,Meta,Conversión,60000,49400,7820,2955,117,3,59863
+2026-10-05,10,TikTok in-feed,TikTok,Tráfico,50000,48901,14143,7459,165,3,46277
+2026-10-05,11,YouTube video,Google,Alcance,40000,35995,13753,4535,54,0,0
+2026-10-05,12,Búsqueda competidores,Google,Conversión,30000,12373,1090,707,34,2,42090
+2026-10-06,1,Retargeting carrito,Meta,Conversión,80000,83883,12341,5887,316,34,700701
+2026-10-06,2,Lookalike compradores,Meta,Conversión,120000,121753,16591,9442,205,11,267105
+2026-10-06,3,Búsqueda de marca,Google,Conversión,50000,50003,5291,4014,459,41,751528
+2026-10-06,4,Búsqueda genérica,Google,Conversión,140000,120373,7304,5235,170,2,39503
+2026-10-06,5,Display amplio,Google,Alcance,60000,56936,23520,8271,64,0,0
+2026-10-06,6,Reels producto nuevo,Meta,Tráfico,90000,83608,15200,2833,170,2,36633
+2026-10-06,7,Spark Ads liquidación,TikTok,Conversión,70000,68072,15810,7645,247,0,0
+2026-10-06,8,Shopping catálogo,Google,Conversión,100000,88095,8065,5694,158,6,79612
+2026-10-06,9,Stories descuento,Meta,Conversión,60000,60096,7734,3098,112,3,58559
+2026-10-06,10,TikTok in-feed,TikTok,Tráfico,50000,50647,14458,7619,185,5,87770
+2026-10-06,11,YouTube video,Google,Alcance,40000,39890,12156,3911,53,0,0
+2026-10-06,12,Búsqueda competidores,Google,Conversión,30000,11873,1291,858,37,2,50381
+2026-10-07,1,Retargeting carrito,Meta,Conversión,80000,76766,12850,6441,336,27,593309
+2026-10-07,2,Lookalike compradores,Meta,Conversión,120000,122262,16349,8640,243,10,221215
+2026-10-07,3,Búsqueda de marca,Google,Conversión,50000,48365,6224,5309,539,36,624500
+2026-10-07,4,Búsqueda genérica,Google,Conversión,140000,137641,9801,6770,214,3,51499
+2026-10-07,5,Display amplio,Google,Alcance,60000,59082,18488,7084,39,0,0
+2026-10-07,6,Reels producto nuevo,Meta,Tráfico,90000,80026,14459,2580,125,1,16083
+2026-10-07,7,Spark Ads liquidación,TikTok,Conversión,70000,69000,15092,6096,229,0,0
+2026-10-07,8,Shopping catálogo,Google,Conversión,100000,94710,8087,5757,126,6,108059
+2026-10-07,9,Stories descuento,Meta,Conversión,60000,60547,7993,3363,122,5,101258
+2026-10-07,10,TikTok in-feed,TikTok,Tráfico,50000,49436,13562,7175,149,3,34936
+2026-10-07,11,YouTube video,Google,Alcance,40000,37521,13659,4596,44,0,0
+2026-10-07,12,Búsqueda competidores,Google,Conversión,30000,12276,1098,785,29,2,39738
+2026-10-08,1,Retargeting carrito,Meta,Conversión,80000,74227,14572,7168,290,25,614137
+2026-10-08,2,Lookalike compradores,Meta,Conversión,120000,114299,15432,8312,205,12,255513
+2026-10-08,3,Búsqueda de marca,Google,Conversión,50000,42417,4979,3598,436,34,726349
+2026-10-08,4,Búsqueda genérica,Google,Conversión,140000,145751,11209,7654,274,4,78751
+2026-10-08,5,Display amplio,Google,Alcance,60000,54393,21457,7760,49,0,0
+2026-10-08,6,Reels producto nuevo,Meta,Tráfico,90000,88804,16197,3152,183,2,38556
+2026-10-08,7,Spark Ads liquidación,TikTok,Conversión,70000,67419,15956,6644,184,0,0
+2026-10-08,8,Shopping catálogo,Google,Conversión,100000,103505,8867,6168,173,11,197800
+2026-10-08,9,Stories descuento,Meta,Conversión,60000,55873,8957,3355,145,5,88285
+2026-10-08,10,TikTok in-feed,TikTok,Tráfico,50000,51186,14740,8071,175,2,37717
+2026-10-08,11,YouTube video,Google,Alcance,40000,41829,11757,3380,40,0,0
+2026-10-08,12,Búsqueda competidores,Google,Conversión,30000,11927,864,616,21,1,20617
+2026-10-09,1,Retargeting carrito,Meta,Conversión,80000,85036,15551,7618,404,35,559848
+2026-10-09,2,Lookalike compradores,Meta,Conversión,120000,112019,13676,8050,183,8,185073
+2026-10-09,3,Búsqueda de marca,Google,Conversión,50000,49854,5105,3833,577,55,1097336
+2026-10-09,4,Búsqueda genérica,Google,Conversión,140000,133175,9312,6748,213,3,64628
+2026-10-09,5,Display amplio,Google,Alcance,60000,62960,21911,8262,58,0,0
+2026-10-09,6,Reels producto nuevo,Meta,Tráfico,90000,89978,16961,3048,184,1,17946
+2026-10-09,7,Spark Ads liquidación,TikTok,Conversión,70000,71740,18673,7775,314,0,0
+2026-10-09,8,Shopping catálogo,Google,Conversión,100000,102230,9125,5568,170,10,167579
+2026-10-09,9,Stories descuento,Meta,Conversión,60000,62280,9582,3348,138,5,74948
+2026-10-09,10,TikTok in-feed,TikTok,Tráfico,50000,48813,13410,7755,156,4,60321
+2026-10-09,11,YouTube video,Google,Alcance,40000,39994,11570,3793,45,0,0
+2026-10-09,12,Búsqueda competidores,Google,Conversión,30000,11688,895,619,28,1,17660
+2026-10-10,1,Retargeting carrito,Meta,Conversión,80000,79446,14069,7063,317,30,748246
+2026-10-10,2,Lookalike compradores,Meta,Conversión,120000,109751,16483,8451,220,10,203333
+2026-10-10,3,Búsqueda de marca,Google,Conversión,50000,47786,6929,5408,562,54,1097311
+2026-10-10,4,Búsqueda genérica,Google,Conversión,140000,134923,9395,7198,157,2,41042
+2026-10-10,5,Display amplio,Google,Alcance,60000,53983,23472,8104,70,0,0
+2026-10-10,6,Reels producto nuevo,Meta,Tráfico,90000,89178,15897,2890,161,2,41988
+2026-10-10,7,Spark Ads liquidación,TikTok,Conversión,70000,70916,16179,6632,261,0,0
+2026-10-10,8,Shopping catálogo,Google,Conversión,100000,105593,10515,6757,249,13,239941
+2026-10-10,9,Stories descuento,Meta,Conversión,60000,51457,9177,3290,127,5,94659
+2026-10-10,10,TikTok in-feed,TikTok,Tráfico,50000,50370,16681,8782,194,4,58638
+2026-10-10,11,YouTube video,Google,Alcance,40000,38117,13514,4157,54,0,0
+2026-10-10,12,Búsqueda competidores,Google,Conversión,30000,12399,1014,778,35,2,36171
+2026-10-11,1,Retargeting carrito,Meta,Conversión,80000,71232,12100,5570,279,19,485129
+2026-10-11,2,Lookalike compradores,Meta,Conversión,120000,103297,15378,8527,207,9,199546
+2026-10-11,3,Búsqueda de marca,Google,Conversión,50000,50914,6781,4996,570,43,1074171
+2026-10-11,4,Búsqueda genérica,Google,Conversión,140000,137995,10947,7975,262,5,100398
+2026-10-11,5,Display amplio,Google,Alcance,60000,56408,17725,6067,44,0,0
+2026-10-11,6,Reels producto nuevo,Meta,Tráfico,90000,89631,17269,3414,201,2,35001
+2026-10-11,7,Spark Ads liquidación,TikTok,Conversión,70000,70243,13000,5353,163,0,0
+2026-10-11,8,Shopping catálogo,Google,Conversión,100000,97013,8398,5421,179,9,167926
+2026-10-11,9,Stories descuento,Meta,Conversión,60000,53651,7968,2727,123,4,75544
+2026-10-11,10,TikTok in-feed,TikTok,Tráfico,50000,49186,13982,7481,146,3,52960
+2026-10-11,11,YouTube video,Google,Alcance,40000,38169,10470,3214,35,0,0
+2026-10-11,12,Búsqueda competidores,Google,Conversión,30000,11471,910,651,25,2,43001
+2026-10-12,1,Retargeting carrito,Meta,Conversión,80000,79337,11835,5796,314,34,743779
+2026-10-12,2,Lookalike compradores,Meta,Conversión,120000,117365,13097,7079,182,5,113212
+2026-10-12,3,Búsqueda de marca,Google,Conversión,50000,51328,5602,4344,533,50,1249587
+2026-10-12,4,Búsqueda genérica,Google,Conversión,140000,144408,9153,6264,181,3,70386
+2026-10-12,5,Display amplio,Google,Alcance,60000,64732,28473,10490,67,0,0
+2026-10-12,6,Reels producto nuevo,Meta,Tráfico,90000,85357,18037,3420,185,2,36229
+2026-10-12,7,Spark Ads liquidación,TikTok,Conversión,70000,71046,18528,7489,334,0,0
+2026-10-12,8,Shopping catálogo,Google,Conversión,100000,89312,8872,6015,153,9,183395
+2026-10-12,9,Stories descuento,Meta,Conversión,60000,57740,9777,3582,151,3,54825
+2026-10-12,10,TikTok in-feed,TikTok,Tráfico,50000,53972,9872,5334,125,2,29861
+2026-10-12,11,YouTube video,Google,Alcance,40000,38816,11994,3770,42,0,0
+2026-10-12,12,Búsqueda competidores,Google,Conversión,30000,12757,1078,840,25,2,42962
+2026-10-13,1,Retargeting carrito,Meta,Conversión,80000,75195,12508,6047,342,33,710278
+2026-10-13,2,Lookalike compradores,Meta,Conversión,120000,122664,11532,6342,170,10,199017
+2026-10-13,3,Búsqueda de marca,Google,Conversión,50000,54186,6563,5603,690,42,732472
+2026-10-13,4,Búsqueda genérica,Google,Conversión,140000,133491,8161,6447,203,3,56648
+2026-10-13,5,Display amplio,Google,Alcance,60000,54322,23584,8620,61,0,0
+2026-10-13,6,Reels producto nuevo,Meta,Tráfico,90000,97479,18421,3408,195,2,34468
+2026-10-13,7,Spark Ads liquidación,TikTok,Conversión,70000,64669,14594,6215,244,0,0
+2026-10-13,8,Shopping catálogo,Google,Conversión,100000,94536,8957,5516,165,7,126608
+2026-10-13,9,Stories descuento,Meta,Conversión,60000,61007,8160,3049,146,4,78483
+2026-10-13,10,TikTok in-feed,TikTok,Tráfico,50000,50856,14328,7673,171,3,46497
+2026-10-13,11,YouTube video,Google,Alcance,40000,40549,11604,3508,48,0,0
+2026-10-13,12,Búsqueda competidores,Google,Conversión,30000,13246,758,548,17,1,25308
+2026-10-14,1,Retargeting carrito,Meta,Conversión,80000,86732,13416,6062,380,36,779683
+2026-10-14,2,Lookalike compradores,Meta,Conversión,120000,115943,14369,7688,189,8,167022
+2026-10-14,3,Búsqueda de marca,Google,Conversión,50000,50478,5386,4167,553,43,881376
+2026-10-14,4,Búsqueda genérica,Google,Conversión,140000,140996,11646,8798,197,3,69177
+2026-10-14,5,Display amplio,Google,Alcance,60000,52548,20331,7871,60,0,0
+2026-10-14,6,Reels producto nuevo,Meta,Tráfico,90000,103063,23063,4454,231,2,33302
+2026-10-14,7,Spark Ads liquidación,TikTok,Conversión,70000,69024,15563,6446,203,0,0
+2026-10-14,8,Shopping catálogo,Google,Conversión,100000,95002,7918,5935,104,4,66539
+2026-10-14,9,Stories descuento,Meta,Conversión,60000,58432,8992,3296,163,3,59823
+2026-10-14,10,TikTok in-feed,TikTok,Tráfico,50000,52214,14613,7747,171,4,64098
+2026-10-14,11,YouTube video,Google,Alcance,40000,36789,13082,4533,48,0,0
+2026-10-14,12,Búsqueda competidores,Google,Conversión,30000,12934,1305,930,41,3,64845
+2026-10-15,1,Retargeting carrito,Meta,Conversión,80000,82198,12066,5750,294,23,454615
+2026-10-15,2,Lookalike compradores,Meta,Conversión,120000,111979,13392,6825,173,7,187301
+2026-10-15,3,Búsqueda de marca,Google,Conversión,50000,44382,4812,3695,451,36,708835
+2026-10-15,4,Búsqueda genérica,Google,Conversión,140000,141473,9204,6410,234,3,59625
+2026-10-15,5,Display amplio,Google,Alcance,60000,61871,27022,9707,69,0,0
+2026-10-15,6,Reels producto nuevo,Meta,Tráfico,90000,98826,18134,3364,172,2,32054
+2026-10-15,7,Spark Ads liquidación,TikTok,Conversión,70000,68595,17207,6811,264,0,0
+2026-10-15,8,Shopping catálogo,Google,Conversión,100000,100502,8299,5889,143,8,126982
+2026-10-15,9,Stories descuento,Meta,Conversión,60000,52725,6148,2305,122,3,57423
+2026-10-15,10,TikTok in-feed,TikTok,Tráfico,50000,47460,8885,4682,95,2,30047
+2026-10-15,11,YouTube video,Google,Alcance,40000,40408,12217,4067,40,0,0
+2026-10-15,12,Búsqueda competidores,Google,Conversión,30000,11617,751,588,24,1,19266
+2026-10-16,1,Retargeting carrito,Meta,Conversión,80000,74997,12079,5593,279,27,598747
+2026-10-16,2,Lookalike compradores,Meta,Conversión,120000,120842,16997,9282,239,9,171736
+2026-10-16,3,Búsqueda de marca,Google,Conversión,50000,49909,5300,4282,447,41,681719
+2026-10-16,4,Búsqueda genérica,Google,Conversión,140000,155814,11397,7243,213,4,83385
+2026-10-16,5,Display amplio,Google,Alcance,60000,61822,25964,8982,54,0,0
+2026-10-16,6,Reels producto nuevo,Meta,Tráfico,90000,87871,16487,3047,166,2,39429
+2026-10-16,7,Spark Ads liquidación,TikTok,Conversión,70000,65134,17023,7181,226,0,0
+2026-10-16,8,Shopping catálogo,Google,Conversión,100000,102084,8037,5051,148,5,96026
+2026-10-16,9,Stories descuento,Meta,Conversión,60000,56870,7497,2813,147,4,83606
+2026-10-16,10,TikTok in-feed,TikTok,Tráfico,50000,48942,12887,6697,103,2,32102
+2026-10-16,11,YouTube video,Google,Alcance,40000,39528,12209,4169,49,0,0
+2026-10-16,12,Búsqueda competidores,Google,Conversión,30000,11912,1073,783,27,2,43625
+2026-10-17,1,Retargeting carrito,Meta,Conversión,80000,76416,10440,4876,209,17,403842
+2026-10-17,2,Lookalike compradores,Meta,Conversión,120000,118242,15255,8388,209,9,212891
+2026-10-17,3,Búsqueda de marca,Google,Conversión,50000,48515,5385,4011,456,29,597368
+2026-10-17,4,Búsqueda genérica,Google,Conversión,140000,140953,7771,5728,185,3,69564
+2026-10-17,5,Display amplio,Google,Alcance,60000,59681,22128,8740,59,0,0
+2026-10-17,6,Reels producto nuevo,Meta,Tráfico,90000,90289,15456,2810,186,2,29363
+2026-10-17,7,Spark Ads liquidación,TikTok,Conversión,70000,67572,17298,7459,293,0,0
+2026-10-17,8,Shopping catálogo,Google,Conversión,100000,102464,9034,5361,192,11,209623
+2026-10-17,9,Stories descuento,Meta,Conversión,60000,63099,7888,3148,130,3,54934
+2026-10-17,10,TikTok in-feed,TikTok,Tráfico,50000,47055,12634,7271,170,3,42698
+2026-10-17,11,YouTube video,Google,Alcance,40000,38660,13082,4435,48,0,0
+2026-10-17,12,Búsqueda competidores,Google,Conversión,30000,11108,842,625,26,1,15943
+2026-10-18,1,Retargeting carrito,Meta,Conversión,80000,78160,10117,5001,205,16,360712
+2026-10-18,2,Lookalike compradores,Meta,Conversión,120000,124215,17757,9679,202,7,145503
+2026-10-18,3,Búsqueda de marca,Google,Conversión,50000,45362,5274,4389,520,46,895156
+2026-10-18,4,Búsqueda genérica,Google,Conversión,140000,140581,8273,7054,185,3,61783
+2026-10-18,5,Display amplio,Google,Alcance,60000,58103,16745,6149,41,0,0
+2026-10-18,6,Reels producto nuevo,Meta,Tráfico,90000,83737,15025,2689,144,1,20337
+2026-10-18,7,Spark Ads liquidación,TikTok,Conversión,70000,65239,13828,5747,194,0,0
+2026-10-18,8,Shopping catálogo,Google,Conversión,100000,92846,9451,5931,171,6,116004
+2026-10-18,9,Stories descuento,Meta,Conversión,60000,57716,9635,3734,110,2,37548
+2026-10-18,10,TikTok in-feed,TikTok,Tráfico,50000,49151,13607,6684,187,4,55551
+2026-10-18,11,YouTube video,Google,Alcance,40000,37783,12183,3726,47,0,0
+2026-10-18,12,Búsqueda competidores,Google,Conversión,30000,11509,978,719,28,2,36762
+2026-10-19,1,Retargeting carrito,Meta,Conversión,80000,80774,15022,7163,406,37,819502
+2026-10-19,2,Lookalike compradores,Meta,Conversión,120000,119383,17322,9839,274,8,186887
+2026-10-19,3,Búsqueda de marca,Google,Conversión,50000,46082,6194,4705,539,51,824319
+2026-10-19,4,Búsqueda genérica,Google,Conversión,140000,149640,11719,8429,253,5,101774
+2026-10-19,5,Display amplio,Google,Alcance,60000,59736,25221,8767,67,0,0
+2026-10-19,6,Reels producto nuevo,Meta,Tráfico,90000,91281,14597,2544,195,1,16024
+2026-10-19,7,Spark Ads liquidación,TikTok,Conversión,70000,74610,15442,6301,215,0,0
+2026-10-19,8,Shopping catálogo,Google,Conversión,100000,90789,9025,6295,157,8,151850
+2026-10-19,9,Stories descuento,Meta,Conversión,60000,61835,9972,3677,177,3,57081
+2026-10-19,10,TikTok in-feed,TikTok,Tráfico,50000,55681,14792,8421,182,3,40074
+2026-10-19,11,YouTube video,Google,Alcance,40000,34405,13177,3950,56,0,0
+2026-10-19,12,Búsqueda competidores,Google,Conversión,30000,11429,711,553,27,1,19846
+2026-10-20,1,Retargeting carrito,Meta,Conversión,80000,87926,15245,7550,337,34,693449
+2026-10-20,2,Lookalike compradores,Meta,Conversión,120000,107360,13843,7571,217,7,163170
+2026-10-20,3,Búsqueda de marca,Google,Conversión,50000,49370,6675,5453,649,50,1117732
+2026-10-20,4,Búsqueda genérica,Google,Conversión,140000,136657,7511,5505,180,3,67595
+2026-10-20,5,Display amplio,Google,Alcance,60000,59791,23114,8435,43,0,0
+2026-10-20,6,Reels producto nuevo,Meta,Tráfico,90000,89206,16268,2809,165,1,15340
+2026-10-20,7,Spark Ads liquidación,TikTok,Conversión,70000,67690,14386,6409,187,0,0
+2026-10-20,8,Shopping catálogo,Google,Conversión,100000,92503,7441,4949,126,6,110693
+2026-10-20,9,Stories descuento,Meta,Conversión,60000,64233,8991,3741,167,3,49867
+2026-10-20,10,TikTok in-feed,TikTok,Tráfico,50000,46987,13835,7480,185,3,39302
+2026-10-20,11,YouTube video,Google,Alcance,40000,36935,12139,3624,55,0,0
+2026-10-20,12,Búsqueda competidores,Google,Conversión,30000,12591,1060,858,26,2,39453
+2026-10-21,1,Retargeting carrito,Meta,Conversión,80000,82177,15109,7137,386,35,770735
+2026-10-21,2,Lookalike compradores,Meta,Conversión,120000,131065,21255,10705,335,14,312227
+2026-10-21,3,Búsqueda de marca,Google,Conversión,50000,50295,6677,5098,622,52,877418
+2026-10-21,4,Búsqueda genérica,Google,Conversión,140000,141798,8981,6862,170,2,42276
+2026-10-21,5,Display amplio,Google,Alcance,60000,61766,23658,8363,59,0,0
+2026-10-21,6,Reels producto nuevo,Meta,Tráfico,90000,81862,17562,3068,232,2,36108
+2026-10-21,7,Spark Ads liquidación,TikTok,Conversión,70000,64432,14443,6108,203,0,0
+2026-10-21,8,Shopping catálogo,Google,Conversión,100000,95901,7926,5739,162,11,186231
+2026-10-21,9,Stories descuento,Meta,Conversión,60000,58925,9436,3322,146,3,52473
+2026-10-21,10,TikTok in-feed,TikTok,Tráfico,50000,54154,13795,7574,155,2,34906
+2026-10-21,11,YouTube video,Google,Alcance,40000,37661,10678,3170,37,0,0
+2026-10-21,12,Búsqueda competidores,Google,Conversión,30000,11295,1011,687,23,2,41988
+2026-10-22,1,Retargeting carrito,Meta,Conversión,80000,84433,12442,6030,367,36,679320
+2026-10-22,2,Lookalike compradores,Meta,Conversión,120000,121088,16815,10393,218,10,254879
+2026-10-22,3,Búsqueda de marca,Google,Conversión,50000,51509,6657,5276,526,44,944986
+2026-10-22,4,Búsqueda genérica,Google,Conversión,140000,142736,8291,5419,203,3,55673
+2026-10-22,5,Display amplio,Google,Alcance,60000,64195,21811,8354,53,0,0
+2026-10-22,6,Reels producto nuevo,Meta,Tráfico,90000,88231,18754,3657,230,2,38498
+2026-10-22,7,Spark Ads liquidación,TikTok,Conversión,70000,77021,20421,8682,318,0,0
+2026-10-22,8,Shopping catálogo,Google,Conversión,100000,90999,7748,5228,139,11,210640
+2026-10-22,9,Stories descuento,Meta,Conversión,60000,57064,8896,3447,171,2,42126
+2026-10-22,10,TikTok in-feed,TikTok,Tráfico,50000,53050,10047,5290,124,3,50888
+2026-10-22,11,YouTube video,Google,Alcance,40000,39809,13910,4291,50,0,0
+2026-10-22,12,Búsqueda competidores,Google,Conversión,30000,11507,891,572,32,2,45152
+2026-10-23,1,Retargeting carrito,Meta,Conversión,80000,85223,13517,6784,350,39,1045998
+2026-10-23,2,Lookalike compradores,Meta,Conversión,120000,123807,17054,9493,265,14,269698
+2026-10-23,3,Búsqueda de marca,Google,Conversión,50000,54946,6480,5095,485,41,817460
+2026-10-23,4,Búsqueda genérica,Google,Conversión,140000,132714,6334,4628,126,1,18169
+2026-10-23,5,Display amplio,Google,Alcance,60000,55458,24017,8177,65,0,0
+2026-10-23,6,Reels producto nuevo,Meta,Tráfico,90000,84691,15133,2825,153,2,37851
+2026-10-23,7,Spark Ads liquidación,TikTok,Conversión,70000,72767,15643,6357,224,0,0
+2026-10-23,8,Shopping catálogo,Google,Conversión,100000,106229,8292,5832,154,8,129290
+2026-10-23,9,Stories descuento,Meta,Conversión,60000,60885,9988,3527,170,2,37301
+2026-10-23,10,TikTok in-feed,TikTok,Tráfico,50000,50584,14948,7663,193,4,59115
+2026-10-23,11,YouTube video,Google,Alcance,40000,36217,12143,3824,46,0,0
+2026-10-23,12,Búsqueda competidores,Google,Conversión,30000,11797,912,684,27,2,42681
+2026-10-24,1,Retargeting carrito,Meta,Conversión,80000,90969,14798,6879,346,28,743113
+2026-10-24,2,Lookalike compradores,Meta,Conversión,120000,111600,13407,7369,187,8,160950
+2026-10-24,3,Búsqueda de marca,Google,Conversión,50000,51660,5755,4601,511,26,565365
+2026-10-24,4,Búsqueda genérica,Google,Conversión,140000,129982,8419,5761,219,3,56144
+2026-10-24,5,Display amplio,Google,Alcance,60000,59562,25869,9704,64,0,0
+2026-10-24,6,Reels producto nuevo,Meta,Tráfico,90000,92317,14318,2634,164,2,32335
+2026-10-24,7,Spark Ads liquidación,TikTok,Conversión,70000,76167,19488,8627,350,0,0
+2026-10-24,8,Shopping catálogo,Google,Conversión,100000,97633,8227,5310,138,8,169017
+2026-10-24,9,Stories descuento,Meta,Conversión,60000,59447,10050,3883,159,2,37487
+2026-10-24,10,TikTok in-feed,TikTok,Tráfico,50000,51898,15443,7749,144,3,54825
+2026-10-24,11,YouTube video,Google,Alcance,40000,38731,12359,3611,38,0,0
+2026-10-24,12,Búsqueda competidores,Google,Conversión,30000,11881,984,674,29,2,41696
+2026-10-25,1,Retargeting carrito,Meta,Conversión,80000,76790,12452,5508,330,30,671734
+2026-10-25,2,Lookalike compradores,Meta,Conversión,120000,112385,13973,7826,185,9,174999
+2026-10-25,3,Búsqueda de marca,Google,Conversión,50000,48676,5937,4800,534,48,1027945
+2026-10-25,4,Búsqueda genérica,Google,Conversión,140000,121116,7024,4791,173,3,56406
+2026-10-25,5,Display amplio,Google,Alcance,60000,63541,24259,9634,67,0,0
+2026-10-25,6,Reels producto nuevo,Meta,Tráfico,90000,92877,15070,2781,183,1,19999
+2026-10-25,7,Spark Ads liquidación,TikTok,Conversión,70000,76276,16074,6621,233,0,0
+2026-10-25,8,Shopping catálogo,Google,Conversión,100000,102367,10475,7262,172,8,142951
+2026-10-25,9,Stories descuento,Meta,Conversión,60000,57799,8885,3102,176,3,43786
+2026-10-25,10,TikTok in-feed,TikTok,Tráfico,50000,51543,10414,5416,122,2,30046
+2026-10-25,11,YouTube video,Google,Alcance,40000,39548,15138,4545,55,0,0
+2026-10-25,12,Búsqueda competidores,Google,Conversión,30000,12471,1008,741,35,2,43687
+2026-10-26,1,Retargeting carrito,Meta,Conversión,80000,78817,13028,6688,322,31,710174
+2026-10-26,2,Lookalike compradores,Meta,Conversión,120000,111613,16638,9343,253,12,281404
+2026-10-26,3,Búsqueda de marca,Google,Conversión,50000,48160,4819,3796,405,31,553208
+2026-10-26,4,Búsqueda genérica,Google,Conversión,140000,131984,8025,5828,191,3,67077
+2026-10-26,5,Display amplio,Google,Alcance,60000,57713,22865,8797,68,0,0
+2026-10-26,6,Reels producto nuevo,Meta,Tráfico,90000,85291,20885,3983,275,3,55686
+2026-10-26,7,Spark Ads liquidación,TikTok,Conversión,70000,70015,16933,7420,275,0,0
+2026-10-26,8,Shopping catálogo,Google,Conversión,100000,102800,8880,5743,174,7,141117
+2026-10-26,9,Stories descuento,Meta,Conversión,60000,62742,7913,3372,123,2,31589
+2026-10-26,10,TikTok in-feed,TikTok,Tráfico,50000,49712,10676,5471,124,3,47676
+2026-10-26,11,YouTube video,Google,Alcance,40000,38235,11823,3544,45,0,0
+2026-10-26,12,Búsqueda competidores,Google,Conversión,30000,11542,891,679,27,2,36717
+2026-10-27,1,Retargeting carrito,Meta,Conversión,80000,73935,11825,5903,337,34,676655
+2026-10-27,2,Lookalike compradores,Meta,Conversión,120000,118928,17340,9190,272,10,215371
+2026-10-27,3,Búsqueda de marca,Google,Conversión,50000,48898,6555,4670,437,37,814834
+2026-10-27,4,Búsqueda genérica,Google,Conversión,140000,145171,9702,7408,201,4,73382
+2026-10-27,5,Display amplio,Google,Alcance,60000,62594,24999,9818,61,0,0
+2026-10-27,6,Reels producto nuevo,Meta,Tráfico,90000,82630,18551,3551,177,2,38031
+2026-10-27,7,Spark Ads liquidación,TikTok,Conversión,70000,63796,14294,5351,168,0,0
+2026-10-27,8,Shopping catálogo,Google,Conversión,100000,103795,9410,7036,162,9,174453
+2026-10-27,9,Stories descuento,Meta,Conversión,60000,63370,8503,2979,158,2,31453
+2026-10-27,10,TikTok in-feed,TikTok,Tráfico,50000,53503,12938,6626,168,3,47585
+2026-10-27,11,YouTube video,Google,Alcance,40000,39055,15025,5073,56,0,0
+2026-10-27,12,Búsqueda competidores,Google,Conversión,30000,11103,1028,758,36,2,40084
+2026-10-28,1,Retargeting carrito,Meta,Conversión,80000,75974,11498,5351,312,24,514364
+2026-10-28,2,Lookalike compradores,Meta,Conversión,120000,99352,12178,7160,160,7,160218
+2026-10-28,3,Búsqueda de marca,Google,Conversión,50000,51203,5883,4372,597,53,929094
+2026-10-28,4,Búsqueda genérica,Google,Conversión,140000,142530,9570,6789,188,3,54524
+2026-10-28,5,Display amplio,Google,Alcance,60000,56681,23910,8016,54,0,0
+2026-10-28,6,Reels producto nuevo,Meta,Tráfico,90000,95803,18899,4031,176,1,18927
+2026-10-28,7,Spark Ads liquidación,TikTok,Conversión,70000,74277,19023,7681,261,0,0
+2026-10-28,8,Shopping catálogo,Google,Conversión,100000,86295,6410,5007,116,6,118724
+2026-10-28,9,Stories descuento,Meta,Conversión,60000,60573,10265,3763,148,2,35264
+2026-10-28,10,TikTok in-feed,TikTok,Tráfico,50000,46409,12944,6494,152,3,47106
+2026-10-28,11,YouTube video,Google,Alcance,40000,37831,13622,4273,55,0,0
+2026-10-28,12,Búsqueda competidores,Google,Conversión,30000,12177,1107,789,34,2,36862
+2026-10-29,1,Retargeting carrito,Meta,Conversión,80000,75191,11894,5744,349,36,853670
+2026-10-29,2,Lookalike compradores,Meta,Conversión,120000,122848,15290,9016,246,7,181132
+2026-10-29,3,Búsqueda de marca,Google,Conversión,50000,50226,5339,4068,543,52,1159363
+2026-10-29,4,Búsqueda genérica,Google,Conversión,140000,141044,8517,6274,199,3,57392
+2026-10-29,5,Display amplio,Google,Alcance,60000,63659,28019,10488,68,0,0
+2026-10-29,6,Reels producto nuevo,Meta,Tráfico,90000,86096,14985,2830,170,2,42300
+2026-10-29,7,Spark Ads liquidación,TikTok,Conversión,70000,66504,15055,6621,216,0,0
+2026-10-29,8,Shopping catálogo,Google,Conversión,100000,92399,9069,5666,185,9,178125
+2026-10-29,9,Stories descuento,Meta,Conversión,60000,62245,7226,2723,109,1,19459
+2026-10-29,10,TikTok in-feed,TikTok,Tráfico,50000,48699,11590,6595,151,3,44555
+2026-10-29,11,YouTube video,Google,Alcance,40000,38877,14713,4688,62,0,0
+2026-10-29,12,Búsqueda competidores,Google,Conversión,30000,12166,1022,715,32,2,43700
+2026-10-30,1,Retargeting carrito,Meta,Conversión,80000,72724,14044,6374,406,27,553747
+2026-10-30,2,Lookalike compradores,Meta,Conversión,120000,106668,15252,8486,214,10,187133
+2026-10-30,3,Búsqueda de marca,Google,Conversión,50000,52464,6195,4835,544,44,922701
+2026-10-30,4,Búsqueda genérica,Google,Conversión,140000,145163,12172,8694,254,4,72476
+2026-10-30,5,Display amplio,Google,Alcance,60000,61448,22469,7148,64,0,0
+2026-10-30,6,Reels producto nuevo,Meta,Tráfico,90000,89319,12580,2441,125,2,37865
+2026-10-30,7,Spark Ads liquidación,TikTok,Conversión,70000,60307,14063,5472,241,0,0
+2026-10-30,8,Shopping catálogo,Google,Conversión,100000,100611,10523,6472,183,8,141025
+2026-10-30,9,Stories descuento,Meta,Conversión,60000,54344,9165,3471,161,2,42504
+2026-10-30,10,TikTok in-feed,TikTok,Tráfico,50000,49993,14327,8063,169,4,61664
+2026-10-30,11,YouTube video,Google,Alcance,40000,39193,12489,4240,47,0,0
+2026-10-30,12,Búsqueda competidores,Google,Conversión,30000,12432,1197,904,33,2,32494
+2026-10-31,1,Retargeting carrito,Meta,Conversión,80000,74445,13772,6520,343,30,702913
+2026-10-31,2,Lookalike compradores,Meta,Conversión,120000,117236,15926,9125,249,9,207111
+2026-10-31,3,Búsqueda de marca,Google,Conversión,50000,54135,6167,4743,527,38,551642
+2026-10-31,4,Búsqueda genérica,Google,Conversión,140000,144293,10464,7750,237,3,59793
+2026-10-31,5,Display amplio,Google,Alcance,60000,58665,20345,6727,47,0,0
+2026-10-31,6,Reels producto nuevo,Meta,Tráfico,90000,92167,17357,3130,174,2,40720
+2026-10-31,7,Spark Ads liquidación,TikTok,Conversión,70000,72952,16806,6835,196,0,0
+2026-10-31,8,Shopping catálogo,Google,Conversión,100000,96744,7969,5600,159,6,122919
+2026-10-31,9,Stories descuento,Meta,Conversión,60000,60815,9728,4053,130,1,15035
+2026-10-31,10,TikTok in-feed,TikTok,Tráfico,50000,48213,12750,6528,165,3,47042
+2026-10-31,11,YouTube video,Google,Alcance,40000,41068,15211,4784,60,0,0
+2026-10-31,12,Búsqueda competidores,Google,Conversión,30000,11992,990,664,23,1,17951
+2026-10-05,5,Display amplio,Google,Alcance,60000,55251,21472,7056,50,0,0
+2026-10-10,5,Display amplio,Google,Alcance,60000,53983,23472,8104,23972,0,0
+2026-10-18,9,Stories descuento,Meta,Conversión,60000,-57716,9635,3734,110,2,37548

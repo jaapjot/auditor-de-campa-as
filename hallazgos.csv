@@ -1,0 +1,11 @@
+campania_id,campania,plataforma,severidad,regla,detalle,accion
+4,Búsqueda genérica,Google,alta,ROAS por debajo de 1,"Por cada $1 invertido devuelve $0,45. CPA: $44.850.",Pausar o recortar el presupuesto y revisar segmentación y palabras clave.
+7,Spark Ads liquidación,TikTok,alta,Gasto sin conversiones,Gastó $2.078.156 y no registró ninguna conversión.,"Revisar el seguimiento (píxel o etiqueta) antes de gastar más; si funciona, pausar."
+9,Stories descuento,Meta,alta,ROAS por debajo de 1,"Por cada $1 invertido devuelve $0,98. CPA: $18.896.",Pausar o recortar el presupuesto y revisar segmentación y palabras clave.
+5,Display amplio,Google,media,CTR muy bajo,"CTR de 0,25 % sobre 685.030 impresiones.",Probar otras creatividades y mensajes; revisar si el público es el correcto.
+6,Reels producto nuevo,Meta,media,Frecuencia alta,"Cada persona vio el anuncio 5,4 veces en promedio.",Renovar la creatividad o ampliar el público para evitar la fatiga.
+9,Stories descuento,Meta,media,CPA en aumento,El CPA de la última semana ($32.453) subió 31 % frente a la anterior ($24.712).,Revisar la creatividad y la audiencia; puede estar agotándose.
+11,YouTube video,Google,media,CTR muy bajo,"CTR de 0,38 % sobre 382.804 impresiones.",Probar otras creatividades y mensajes; revisar si el público es el correcto.
+12,Búsqueda competidores,Google,baja,No gasta su presupuesto,Gastó el 40 % del presupuesto diario.,Ampliar la segmentación o revisar la puja: se está perdiendo volumen.
+1,Retargeting carrito,Meta,oportunidad,Candidata a escalar,"ROAS de 8,3 y gasta todo su presupuesto.",Subir el presupuesto de a poco (alrededor de 20 %) y vigilar que el ROAS se sostenga.
+3,Búsqueda de marca,Google,oportunidad,Candidata a escalar,"ROAS de 16,9 y gasta todo su presupuesto.",Subir el presupuesto de a poco (alrededor de 20 %) y vigilar que el ROAS se sostenga.
